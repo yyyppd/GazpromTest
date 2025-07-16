@@ -91,10 +91,28 @@ public class OfferRepository : Repository, IOfferRepository
 
     public async Task<IEnumerable<Supplier>> GetTopSuppliersAsync(int count, CancellationToken cancellationToken)
     {
-        return await _context.Suppliers.Include(s => s.Offers)
-            .OrderByDescending(s => s.Offers.Count)
+        var topSupplierIds = await _context.Offers
+            .GroupBy(o => o.SupplierId)
+            .Select(g => new 
+            {
+                SupplierId = g.Key,
+                OffersCount = g.Count()
+            })
+            .OrderByDescending(x => x.OffersCount)
             .Take(count)
+            .Select(x => x.SupplierId)
             .ToListAsync(cancellationToken);
+
+        var suppliers = await _context.Suppliers
+            .Where(s => topSupplierIds.Contains(s.Id))
+            .Include(s => s.Offers)
+            .ToListAsync(cancellationToken);
+
+        var orderedSuppliers = topSupplierIds
+            .Select(id => suppliers.First(s => s.Id == id))
+            .ToList();
+
+        return orderedSuppliers;
     }
 
     public async Task<int> CountAsync(SearchOfferParams parameters, CancellationToken ct)
