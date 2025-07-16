@@ -1,0 +1,15 @@
+/Users/y.platonov/RiderProjects/GazpromTest/GazpromTest/GazpromTest.Application/bin/Debug/net8.0/GazpromTest.Application.deps.json
+/Users/y.platonov/RiderProjects/GazpromTest/GazpromTest/GazpromTest.Application/bin/Debug/net8.0/GazpromTest.Application.dll
+/Users/y.platonov/RiderProjects/GazpromTest/GazpromTest/GazpromTest.Application/bin/Debug/net8.0/GazpromTest.Application.pdb
+/Users/y.platonov/RiderProjects/GazpromTest/GazpromTest/GazpromTest.Application/bin/Debug/net8.0/GazpromTest.Domain.dll
+/Users/y.platonov/RiderProjects/GazpromTest/GazpromTest/GazpromTest.Application/bin/Debug/net8.0/GazpromTest.Domain.pdb
+/Users/y.platonov/RiderProjects/GazpromTest/GazpromTest/GazpromTest.Application/obj/Debug/net8.0/GazpromTest.Application.csproj.AssemblyReference.cache
+/Users/y.platonov/RiderProjects/GazpromTest/GazpromTest/GazpromTest.Application/obj/Debug/net8.0/GazpromTest.Application.GeneratedMSBuildEditorConfig.editorconfig
+/Users/y.platonov/RiderProjects/GazpromTest/GazpromTest/GazpromTest.Application/obj/Debug/net8.0/GazpromTest.Application.AssemblyInfoInputs.cache
+/Users/y.platonov/RiderProjects/GazpromTest/GazpromTest/GazpromTest.Application/obj/Debug/net8.0/GazpromTest.Application.AssemblyInfo.cs
+/Users/y.platonov/RiderProjects/GazpromTest/GazpromTest/GazpromTest.Application/obj/Debug/net8.0/GazpromTest.Application.csproj.CoreCompileInputs.cache
+/Users/y.platonov/RiderProjects/GazpromTest/GazpromTest/GazpromTest.Application/obj/Debug/net8.0/GazpromT.21CD2279.Up2Date
+/Users/y.platonov/RiderProjects/GazpromTest/GazpromTest/GazpromTest.Application/obj/Debug/net8.0/GazpromTest.Application.dll
+/Users/y.platonov/RiderProjects/GazpromTest/GazpromTest/GazpromTest.Application/obj/Debug/net8.0/refint/GazpromTest.Application.dll
+/Users/y.platonov/RiderProjects/GazpromTest/GazpromTest/GazpromTest.Application/obj/Debug/net8.0/GazpromTest.Application.pdb
+/Users/y.platonov/RiderProjects/GazpromTest/GazpromTest/GazpromTest.Application/obj/Debug/net8.0/ref/GazpromTest.Application.dll

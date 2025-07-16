@@ -1,0 +1,15 @@
+/Users/y.platonov/RiderProjects/GazpromTest/GazpromTest/GazpromTest.Infrastructure/bin/Debug/net8.0/GazpromTest.Infrastructure.deps.json
+/Users/y.platonov/RiderProjects/GazpromTest/GazpromTest/GazpromTest.Infrastructure/bin/Debug/net8.0/GazpromTest.Infrastructure.dll
+/Users/y.platonov/RiderProjects/GazpromTest/GazpromTest/GazpromTest.Infrastructure/bin/Debug/net8.0/GazpromTest.Infrastructure.pdb
+/Users/y.platonov/RiderProjects/GazpromTest/GazpromTest/GazpromTest.Infrastructure/bin/Debug/net8.0/GazpromTest.Domain.dll
+/Users/y.platonov/RiderProjects/GazpromTest/GazpromTest/GazpromTest.Infrastructure/bin/Debug/net8.0/GazpromTest.Domain.pdb
+/Users/y.platonov/RiderProjects/GazpromTest/GazpromTest/GazpromTest.Infrastructure/obj/Debug/net8.0/GazpromTest.Infrastructure.csproj.AssemblyReference.cache
+/Users/y.platonov/RiderProjects/GazpromTest/GazpromTest/GazpromTest.Infrastructure/obj/Debug/net8.0/GazpromTest.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/y.platonov/RiderProjects/GazpromTest/GazpromTest/GazpromTest.Infrastructure/obj/Debug/net8.0/GazpromTest.Infrastructure.AssemblyInfoInputs.cache
+/Users/y.platonov/RiderProjects/GazpromTest/GazpromTest/GazpromTest.Infrastructure/obj/Debug/net8.0/GazpromTest.Infrastructure.AssemblyInfo.cs
+/Users/y.platonov/RiderProjects/GazpromTest/GazpromTest/GazpromTest.Infrastructure/obj/Debug/net8.0/GazpromTest.Infrastructure.csproj.CoreCompileInputs.cache
+/Users/y.platonov/RiderProjects/GazpromTest/GazpromTest/GazpromTest.Infrastructure/obj/Debug/net8.0/GazpromT.F9328A9C.Up2Date
+/Users/y.platonov/RiderProjects/GazpromTest/GazpromTest/GazpromTest.Infrastructure/obj/Debug/net8.0/GazpromTest.Infrastructure.dll
+/Users/y.platonov/RiderProjects/GazpromTest/GazpromTest/GazpromTest.Infrastructure/obj/Debug/net8.0/refint/GazpromTest.Infrastructure.dll
+/Users/y.platonov/RiderProjects/GazpromTest/GazpromTest/GazpromTest.Infrastructure/obj/Debug/net8.0/GazpromTest.Infrastructure.pdb
+/Users/y.platonov/RiderProjects/GazpromTest/GazpromTest/GazpromTest.Infrastructure/obj/Debug/net8.0/ref/GazpromTest.Infrastructure.dll

@@ -1,0 +1,11 @@
+/Users/y.platonov/RiderProjects/GazpromTest/GazpromTest/GazpromTest.Domain/bin/Debug/net8.0/GazpromTest.Domain.deps.json
+/Users/y.platonov/RiderProjects/GazpromTest/GazpromTest/GazpromTest.Domain/bin/Debug/net8.0/GazpromTest.Domain.dll
+/Users/y.platonov/RiderProjects/GazpromTest/GazpromTest/GazpromTest.Domain/bin/Debug/net8.0/GazpromTest.Domain.pdb
+/Users/y.platonov/RiderProjects/GazpromTest/GazpromTest/GazpromTest.Domain/obj/Debug/net8.0/GazpromTest.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/y.platonov/RiderProjects/GazpromTest/GazpromTest/GazpromTest.Domain/obj/Debug/net8.0/GazpromTest.Domain.AssemblyInfoInputs.cache
+/Users/y.platonov/RiderProjects/GazpromTest/GazpromTest/GazpromTest.Domain/obj/Debug/net8.0/GazpromTest.Domain.AssemblyInfo.cs
+/Users/y.platonov/RiderProjects/GazpromTest/GazpromTest/GazpromTest.Domain/obj/Debug/net8.0/GazpromTest.Domain.csproj.CoreCompileInputs.cache
+/Users/y.platonov/RiderProjects/GazpromTest/GazpromTest/GazpromTest.Domain/obj/Debug/net8.0/GazpromTest.Domain.dll
+/Users/y.platonov/RiderProjects/GazpromTest/GazpromTest/GazpromTest.Domain/obj/Debug/net8.0/refint/GazpromTest.Domain.dll
+/Users/y.platonov/RiderProjects/GazpromTest/GazpromTest/GazpromTest.Domain/obj/Debug/net8.0/GazpromTest.Domain.pdb
+/Users/y.platonov/RiderProjects/GazpromTest/GazpromTest/GazpromTest.Domain/obj/Debug/net8.0/ref/GazpromTest.Domain.dll

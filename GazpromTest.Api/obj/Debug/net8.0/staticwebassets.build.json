@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "hXGhQ5QBhvoJuR9n8QzqStbq8FPjnbebvxgPUL2l1mA=",
+  "Source": "GazpromTest.Api",
+  "BasePath": "_content/GazpromTest.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
