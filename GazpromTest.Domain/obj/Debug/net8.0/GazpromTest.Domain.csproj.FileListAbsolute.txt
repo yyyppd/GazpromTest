@@ -9,3 +9,4 @@
 /Users/y.platonov/RiderProjects/GazpromTest/GazpromTest/GazpromTest.Domain/obj/Debug/net8.0/refint/GazpromTest.Domain.dll
 /Users/y.platonov/RiderProjects/GazpromTest/GazpromTest/GazpromTest.Domain/obj/Debug/net8.0/GazpromTest.Domain.pdb
 /Users/y.platonov/RiderProjects/GazpromTest/GazpromTest/GazpromTest.Domain/obj/Debug/net8.0/ref/GazpromTest.Domain.dll
+/Users/y.platonov/RiderProjects/GazpromTest/GazpromTest/GazpromTest.Domain/obj/Debug/net8.0/GazpromTest.Domain.sourcelink.json

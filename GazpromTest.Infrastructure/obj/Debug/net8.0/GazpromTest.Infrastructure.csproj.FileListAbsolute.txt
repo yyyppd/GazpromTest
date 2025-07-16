@@ -13,3 +13,4 @@
 /Users/y.platonov/RiderProjects/GazpromTest/GazpromTest/GazpromTest.Infrastructure/obj/Debug/net8.0/refint/GazpromTest.Infrastructure.dll
 /Users/y.platonov/RiderProjects/GazpromTest/GazpromTest/GazpromTest.Infrastructure/obj/Debug/net8.0/GazpromTest.Infrastructure.pdb
 /Users/y.platonov/RiderProjects/GazpromTest/GazpromTest/GazpromTest.Infrastructure/obj/Debug/net8.0/ref/GazpromTest.Infrastructure.dll
+/Users/y.platonov/RiderProjects/GazpromTest/GazpromTest/GazpromTest.Infrastructure/obj/Debug/net8.0/GazpromTest.Infrastructure.sourcelink.json
